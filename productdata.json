@@ -1,4 +1,4 @@
- {
+ [
   {
     id: "p1",
     title: "classic chocolate - 18g protein (pack of 2)",
@@ -1155,4 +1155,4 @@
     about:
       "the most delicious protein powder out there! $ 23.1g protein $  highest quality whey  $ 0 added sugar $ 5g bcaaa $ 13 essential vitamins $ >1g fat $ thick and tasty af  $ it has something for everyone — from chocoholics to those who love berries, to those who want grown-up protein-loaded snacks and those who want their childhood favourite wafer biscuits but made better for them.",
   },
-}:
+    ];
